@@ -22,5 +22,11 @@
 
         <activity android:name=".activities.ExternalLoginActivity"/>
 
+        <activity android:name=".activities.ProfileActivity"/>
+
+        <activity android:name=".activities.ContactsActivity"/>
+
+        <activity android:name=".activities.SentMessagesActivity"/>
+
     </application>
 </manifest>
